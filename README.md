@@ -1,23 +1,8 @@
-## What's going on? 👋
-
-<!--
-**CallesnikovProduction/CallesnikovProduction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What's going on? <img src="assets/catmeme.gif" width="24">
 
 > Misunderstood programmer. Generated genius. Not a billionaire yet.
 
-### 🔭 What about?
+## What about?
 
 I'm Styopa (20 y.o.), though I like it when people call me `Stephan`.
 Sometimes a vibecoder, but fundamentally a programmer with a decompositional way of thinking.
@@ -48,13 +33,33 @@ April–May 2026 — I discovered Kotlin and its beautiful syntax. The grass got
 /_/ |_\____/\__/_/_/_/ /_/     \__,_/\___/ |___/  
 ```
 
-💜
+<p align="center">
+  <img src="assets/heart.gif" width="180" alt="heart">
+</p>
+## Tools 🌱
 
-## A Couple of Things I've Built 🌱
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JADX-2C2C2C?style=for-the-badge&logo=android&logoColor=white" />
+</p>
 
-_in development..._
+## Technology Stack ⚡
 
-### ⚡ Most important:
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,ktor,spring,gradle,maven,postgres,sqlite,docker,linux,git" />
+</p>
 
-I like cats and girls.
+### Workspace
 
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallesnikovProduction&layout=compact&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
+</p>
