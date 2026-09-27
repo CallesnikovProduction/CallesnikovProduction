@@ -56,11 +56,20 @@ April–May 2026 — I discovered Kotlin and its beautiful syntax. The grass got
 
 ### Workspace
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CallesnikovProduction&layout=compact)
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CallesnikovProduction&theme=github_dark"
+    height="180"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CallesnikovProduction&theme=github_dark"
+    height="180"
+  />
+</p>
 
 ## Outside the IDE <img src="assets/catheadphones.gif" width="24">
 
 When I'm not debugging threads or breaking Android apps,
 I'm probably making something loud.
 
-🎧 [Listen on SoundCloud]([https://soundcloud.com/YOUR_USERNAME](https://on.soundcloud.com/w3pr1a3XTEKYxtMJrv))
+🎧 [Listen on SoundCloud](https://on.soundcloud.com/w3pr1a3XTEKYxtMJrv)
