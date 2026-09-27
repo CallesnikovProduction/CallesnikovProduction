@@ -36,7 +36,6 @@ April–May 2026 — I discovered Kotlin and its beautiful syntax. The grass got
 <p align="center">
   <img src="assets/heart.gif" width="180" alt="heart">
 </p>
-## Tools 🌱
 
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -57,9 +56,11 @@ April–May 2026 — I discovered Kotlin and its beautiful syntax. The grass got
 
 ### Workspace
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallesnikovProduction&layout=compact&hide_border=true&langs_count=8"
-    alt="Top Languages"
-  />
-</p>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CallesnikovProduction&layout=compact)
+
+## Outside the IDE <img src="assets/catheadphones.gif" width="24">
+
+When I'm not debugging threads or breaking Android apps,
+I'm probably making something loud.
+
+🎧 [Listen on SoundCloud]([https://soundcloud.com/YOUR_USERNAME](https://on.soundcloud.com/w3pr1a3XTEKYxtMJrv))
