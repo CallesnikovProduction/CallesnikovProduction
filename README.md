@@ -19,7 +19,7 @@ In 2025, I fell in love with Java ☕️ — my _first programming language that
   <sub>From language fundamentals to concurrent and cross-platform systems.</sub>
 </p>
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">☕ Java Core</h3>
