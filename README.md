@@ -12,7 +12,7 @@ Sometimes a vibecoder, but fundamentally a programmer with a decompositional way
 In 2025, I fell in love with Java ☕️ — my _first programming language that I took seriously_.
 
 
-
+<div align="center">
 <h2 align="center">📚 Engineering Bookshelf</h2>
 
 <p align="center">
@@ -74,6 +74,7 @@ In 2025, I fell in love with Java ☕️ — my _first programming language that
   </tr>
 </table>
 
+</div>
 
 
 One of them was a team project for earthquake signal processing: [earthquake-fourier-processing](https://github.com/CallesnikovProduction/earthquake-fourier-processing)
