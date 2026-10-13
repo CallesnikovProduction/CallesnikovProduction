@@ -11,7 +11,67 @@ Sometimes a vibecoder, but fundamentally a programmer with a decompositional way
 
 In 2025, I fell in love with Java ☕️ — my _first programming language that I took seriously_.
 
-I learned it mostly through Cay Horstmann's books (highly recommended for anyone starting out) and practiced by building things for university.
+<h2 align="center">📚 Engineering Bookshelf</h2>
+
+<p align="center">
+  <i>Books that shaped my engineering foundation.</i>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">☕ Java Core: Fundamentals</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+        <img src="https://img.shields.io/badge/JVM-4B5563?style=for-the-badge" alt="JVM"/>
+        <img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge" alt="OOP"/>
+      </p>
+      <p>
+        Java language fundamentals, object-oriented programming,
+        collections, generics, exception handling and core
+        JVM concepts.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧵 Java Concurrency in Practice</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Concurrency-2563EB?style=for-the-badge" alt="Concurrency"/>
+        <img src="https://img.shields.io/badge/Multithreading-0891B2?style=for-the-badge" alt="Multithreading"/>
+      </p>
+      <p>
+        Thread safety, synchronization, Java Memory Model,
+        locks, executors and principles of designing
+        reliable concurrent applications.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💜 Kotlin in Action</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+        <img src="https://img.shields.io/badge/Functional_Programming-9333EA?style=for-the-badge" alt="Functional Programming"/>
+      </p>
+      <p>
+        Idiomatic Kotlin, null safety, extension functions,
+        higher-order functions, lambdas, DSL concepts
+        and Java interoperability.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Kotlin Multiplatform</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform"/>
+        <img src="https://img.shields.io/badge/Shared_Code-0D9488?style=for-the-badge" alt="Shared Code"/>
+      </p>
+      <p>
+        Cross-platform development, shared Kotlin modules,
+        source sets, expect/actual declarations and
+        platform-specific implementations.
+      </p>
+    </td>
+  </tr>
+</table>
 
 One of them was a team project for earthquake signal processing: [earthquake-fourier-processing](https://github.com/CallesnikovProduction/earthquake-fourier-processing)
 
